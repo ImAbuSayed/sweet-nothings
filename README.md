@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sweet-nothings/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Sweet Nothings](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sweet-nothings/) |
+| **Get License** | [License this song: Sweet Nothings](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sweet-nothings/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Got a pocket full of time to spend tonight
+> With your shadow pulling right up next to mine
+> The bourbon's pouring warm and pouring slow
+> But you’re the only buzz I want to know
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
